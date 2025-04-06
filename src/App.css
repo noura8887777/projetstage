@@ -1,0 +1,24 @@
+/* Styles pour les boutons bleus */
+.btn-primary {
+    background-color: #007bff; /* Bleu Bootstrap par défaut */
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Bleu plus foncé au survol */
+    border-color: #004085;
+}
+
+/* Styles pour les liens bleus */
+a.text-primary {
+    color: #007bff !important; /* Bleu Bootstrap par défaut */
+}
+
+a.text-primary:hover {
+    color: #0056b3 !important; /* Bleu plus foncé au survol */
+}
+
+/* Styles pour le champ de recherche */
+.border-primary {
+    border-color: #007bff !important; /* Bordure bleue */
+}
